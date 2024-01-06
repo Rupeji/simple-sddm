@@ -18,7 +18,7 @@ A Simple theme variant for the <a href="https://github.com/sddm/sddm">SDDM Login
 1. Open terminal, and clone the repository with:
 
    ```bash
-   git clone https://github.com/JaKooLit/simple-sddm.git ~/simple-sddm
+   git clone https://github.com/Rupeji/simple-sddm.git ~/simple-sddm ~/simple-sddm
    ```
 
 2. Then move it as follows:
